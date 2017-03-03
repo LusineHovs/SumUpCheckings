@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomCollections", "Custom
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContinueBreak", "ContinueBreak\ContinueBreak.csproj", "{22B1EC70-B8C4-47D4-9759-CEF640CAF334}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFights", "CodeFights\CodeFights.csproj", "{BBF48E40-D728-4F1B-9584-EAFF6495C6D6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +161,10 @@ Global
 		{22B1EC70-B8C4-47D4-9759-CEF640CAF334}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22B1EC70-B8C4-47D4-9759-CEF640CAF334}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22B1EC70-B8C4-47D4-9759-CEF640CAF334}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBF48E40-D728-4F1B-9584-EAFF6495C6D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBF48E40-D728-4F1B-9584-EAFF6495C6D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBF48E40-D728-4F1B-9584-EAFF6495C6D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBF48E40-D728-4F1B-9584-EAFF6495C6D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
