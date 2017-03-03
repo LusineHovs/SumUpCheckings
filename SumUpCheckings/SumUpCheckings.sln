@@ -55,7 +55,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContinueBreak", "ContinueBr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFights", "CodeFights\CodeFights.csproj", "{BBF48E40-D728-4F1B-9584-EAFF6495C6D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{C17701B7-2F1B-48CE-B8AA-482C18122596}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysReverse", "Arrays\ArraysReverse.csproj", "{C17701B7-2F1B-48CE-B8AA-482C18122596}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
