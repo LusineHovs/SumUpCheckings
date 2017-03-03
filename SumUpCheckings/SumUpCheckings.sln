@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Upcast-staticCTOR", "Upcast
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProblem", "TestProblem\TestProblem.csproj", "{30C32E4E-2138-48CF-99DA-D0424CB2D593}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{F7A8F703-BF8F-49AE-B7AE-A572180DAFD9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{30C32E4E-2138-48CF-99DA-D0424CB2D593}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30C32E4E-2138-48CF-99DA-D0424CB2D593}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30C32E4E-2138-48CF-99DA-D0424CB2D593}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7A8F703-BF8F-49AE-B7AE-A572180DAFD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7A8F703-BF8F-49AE-B7AE-A572180DAFD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7A8F703-BF8F-49AE-B7AE-A572180DAFD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7A8F703-BF8F-49AE-B7AE-A572180DAFD9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
