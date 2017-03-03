@@ -61,6 +61,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayProblem", "ArrayProble
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic-NonGenericCollections", "Generic-NonGenericCollections\Generic-NonGenericCollections.csproj", "{0DD6B93F-513E-44C4-B40A-F6BFD6856FA6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickSort", "QuickSort\QuickSort.csproj", "{1603AD76-AA35-490B-A48E-5F503B4CF11F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -183,6 +185,10 @@ Global
 		{0DD6B93F-513E-44C4-B40A-F6BFD6856FA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0DD6B93F-513E-44C4-B40A-F6BFD6856FA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0DD6B93F-513E-44C4-B40A-F6BFD6856FA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1603AD76-AA35-490B-A48E-5F503B4CF11F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1603AD76-AA35-490B-A48E-5F503B4CF11F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1603AD76-AA35-490B-A48E-5F503B4CF11F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1603AD76-AA35-490B-A48E-5F503B4CF11F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
