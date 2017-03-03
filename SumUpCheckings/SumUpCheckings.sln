@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ref-String", "Ref-String\Re
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticConstructor", "StaticConstructor\StaticConstructor.csproj", "{A5664FB3-5E52-48E3-AFF9-9A45739897FE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticCtorInheritance", "StaticCtorInheritance\StaticCtorInheritance.csproj", "{F6C784F4-B5F4-493F-A937-0E29294ACEEF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{A5664FB3-5E52-48E3-AFF9-9A45739897FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A5664FB3-5E52-48E3-AFF9-9A45739897FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A5664FB3-5E52-48E3-AFF9-9A45739897FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6C784F4-B5F4-493F-A937-0E29294ACEEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6C784F4-B5F4-493F-A937-0E29294ACEEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6C784F4-B5F4-493F-A937-0E29294ACEEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6C784F4-B5F4-493F-A937-0E29294ACEEF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
