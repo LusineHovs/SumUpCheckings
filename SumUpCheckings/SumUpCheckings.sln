@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceProblem", "Inher
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indexer-extensions", "Indexer\Indexer-extensions.csproj", "{708F8D62-BDB2-4208-9917-71B45B27480E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IClonable", "IClonable\IClonable.csproj", "{C1770EC6-78C0-402A-8AFE-6CF2945169F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{708F8D62-BDB2-4208-9917-71B45B27480E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{708F8D62-BDB2-4208-9917-71B45B27480E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{708F8D62-BDB2-4208-9917-71B45B27480E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1770EC6-78C0-402A-8AFE-6CF2945169F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1770EC6-78C0-402A-8AFE-6CF2945169F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1770EC6-78C0-402A-8AFE-6CF2945169F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1770EC6-78C0-402A-8AFE-6CF2945169F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
