@@ -59,6 +59,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysReverse", "Arrays\Arr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayProblem", "ArrayProblem\ArrayProblem.csproj", "{E05C383C-4FF3-4FED-81CA-2D0C19F5650E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic-NonGenericCollections", "Generic-NonGenericCollections\Generic-NonGenericCollections.csproj", "{0DD6B93F-513E-44C4-B40A-F6BFD6856FA6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -177,6 +179,10 @@ Global
 		{E05C383C-4FF3-4FED-81CA-2D0C19F5650E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E05C383C-4FF3-4FED-81CA-2D0C19F5650E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E05C383C-4FF3-4FED-81CA-2D0C19F5650E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DD6B93F-513E-44C4-B40A-F6BFD6856FA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DD6B93F-513E-44C4-B40A-F6BFD6856FA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DD6B93F-513E-44C4-B40A-F6BFD6856FA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DD6B93F-513E-44C4-B40A-F6BFD6856FA6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
