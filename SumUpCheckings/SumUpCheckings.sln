@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate", "Delegate\Delega
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomCollections", "CustomCollections\CustomCollections.csproj", "{B5B03EE6-4A89-4E6C-9B27-76CC9D09C43D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContinueBreak", "ContinueBreak\ContinueBreak.csproj", "{22B1EC70-B8C4-47D4-9759-CEF640CAF334}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{B5B03EE6-4A89-4E6C-9B27-76CC9D09C43D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B5B03EE6-4A89-4E6C-9B27-76CC9D09C43D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B5B03EE6-4A89-4E6C-9B27-76CC9D09C43D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22B1EC70-B8C4-47D4-9759-CEF640CAF334}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22B1EC70-B8C4-47D4-9759-CEF640CAF334}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22B1EC70-B8C4-47D4-9759-CEF640CAF334}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22B1EC70-B8C4-47D4-9759-CEF640CAF334}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
