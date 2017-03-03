@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome", "Palindrome\Palindrome.csproj", "{FA1C5677-1581-42F4-8281-BF350BE33B66}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatorsOverloading", "OperatorsOverloading\OperatorsOverloading.csproj", "{6C3DF0E1-E0EA-43CF-85AC-20B18D1C4207}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{FA1C5677-1581-42F4-8281-BF350BE33B66}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA1C5677-1581-42F4-8281-BF350BE33B66}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA1C5677-1581-42F4-8281-BF350BE33B66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C3DF0E1-E0EA-43CF-85AC-20B18D1C4207}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C3DF0E1-E0EA-43CF-85AC-20B18D1C4207}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C3DF0E1-E0EA-43CF-85AC-20B18D1C4207}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C3DF0E1-E0EA-43CF-85AC-20B18D1C4207}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
