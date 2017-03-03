@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContinueBreak", "ContinueBr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFights", "CodeFights\CodeFights.csproj", "{BBF48E40-D728-4F1B-9584-EAFF6495C6D6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{C17701B7-2F1B-48CE-B8AA-482C18122596}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +167,10 @@ Global
 		{BBF48E40-D728-4F1B-9584-EAFF6495C6D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BBF48E40-D728-4F1B-9584-EAFF6495C6D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BBF48E40-D728-4F1B-9584-EAFF6495C6D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C17701B7-2F1B-48CE-B8AA-482C18122596}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C17701B7-2F1B-48CE-B8AA-482C18122596}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C17701B7-2F1B-48CE-B8AA-482C18122596}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C17701B7-2F1B-48CE-B8AA-482C18122596}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
