@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Swaping", "Swaping\Swaping.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ref-String", "Ref-String\Ref-String.csproj", "{C33C0FAE-39DF-459C-BF09-BB98773CB82F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticConstructor", "StaticConstructor\StaticConstructor.csproj", "{A5664FB3-5E52-48E3-AFF9-9A45739897FE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{C33C0FAE-39DF-459C-BF09-BB98773CB82F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C33C0FAE-39DF-459C-BF09-BB98773CB82F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C33C0FAE-39DF-459C-BF09-BB98773CB82F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5664FB3-5E52-48E3-AFF9-9A45739897FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5664FB3-5E52-48E3-AFF9-9A45739897FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5664FB3-5E52-48E3-AFF9-9A45739897FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5664FB3-5E52-48E3-AFF9-9A45739897FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
