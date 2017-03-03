@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticCtorInheritance", "St
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Upcast-staticCTOR", "Upcast-staticCTOR\Upcast-staticCTOR.csproj", "{E5BC91CA-BD03-4AEB-974D-A0ADC78D73F3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProblem", "TestProblem\TestProblem.csproj", "{30C32E4E-2138-48CF-99DA-D0424CB2D593}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{E5BC91CA-BD03-4AEB-974D-A0ADC78D73F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5BC91CA-BD03-4AEB-974D-A0ADC78D73F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5BC91CA-BD03-4AEB-974D-A0ADC78D73F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30C32E4E-2138-48CF-99DA-D0424CB2D593}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30C32E4E-2138-48CF-99DA-D0424CB2D593}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30C32E4E-2138-48CF-99DA-D0424CB2D593}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30C32E4E-2138-48CF-99DA-D0424CB2D593}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
