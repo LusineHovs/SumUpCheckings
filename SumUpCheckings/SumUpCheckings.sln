@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indexer-extensions", "Index
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IClonable", "IClonable\IClonable.csproj", "{C1770EC6-78C0-402A-8AFE-6CF2945169F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Events", "Events\Events.csproj", "{00DF47EC-9F49-4EF5-BB71-9B3D9EE33E47}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{C1770EC6-78C0-402A-8AFE-6CF2945169F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1770EC6-78C0-402A-8AFE-6CF2945169F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1770EC6-78C0-402A-8AFE-6CF2945169F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00DF47EC-9F49-4EF5-BB71-9B3D9EE33E47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00DF47EC-9F49-4EF5-BB71-9B3D9EE33E47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00DF47EC-9F49-4EF5-BB71-9B3D9EE33E47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00DF47EC-9F49-4EF5-BB71-9B3D9EE33E47}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
