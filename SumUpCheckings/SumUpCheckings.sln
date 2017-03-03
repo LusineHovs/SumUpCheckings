@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsAs", "IsAs\IsAs.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceExplicitImplem", "InterfaceExplicitImplem\InterfaceExplicitImplem.csproj", "{853381CC-2C11-4DBE-B000-09A4D093CD94}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceProblem", "InheritanceProblem\InheritanceProblem.csproj", "{E530C5CF-0727-4C35-86D2-EB68B2A6037D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{853381CC-2C11-4DBE-B000-09A4D093CD94}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{853381CC-2C11-4DBE-B000-09A4D093CD94}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{853381CC-2C11-4DBE-B000-09A4D093CD94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E530C5CF-0727-4C35-86D2-EB68B2A6037D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E530C5CF-0727-4C35-86D2-EB68B2A6037D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E530C5CF-0727-4C35-86D2-EB68B2A6037D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E530C5CF-0727-4C35-86D2-EB68B2A6037D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
