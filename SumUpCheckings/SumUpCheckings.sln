@@ -69,6 +69,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearch", "BinarySearc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinearSearch", "LinearSearch\LinearSearch.csproj", "{543CA2C6-06FD-4BB0-AB74-2DA2D0434C32}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Params", "Params\Params.csproj", "{D999EA97-05B2-48C5-B69C-247FEFBBC087}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestP4", "TestP4\TestP4.csproj", "{9122FAD4-DBEC-4025-8D97-D8A86F406FE6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -207,6 +211,14 @@ Global
 		{543CA2C6-06FD-4BB0-AB74-2DA2D0434C32}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{543CA2C6-06FD-4BB0-AB74-2DA2D0434C32}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{543CA2C6-06FD-4BB0-AB74-2DA2D0434C32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D999EA97-05B2-48C5-B69C-247FEFBBC087}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D999EA97-05B2-48C5-B69C-247FEFBBC087}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D999EA97-05B2-48C5-B69C-247FEFBBC087}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D999EA97-05B2-48C5-B69C-247FEFBBC087}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9122FAD4-DBEC-4025-8D97-D8A86F406FE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9122FAD4-DBEC-4025-8D97-D8A86F406FE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9122FAD4-DBEC-4025-8D97-D8A86F406FE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9122FAD4-DBEC-4025-8D97-D8A86F406FE6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
