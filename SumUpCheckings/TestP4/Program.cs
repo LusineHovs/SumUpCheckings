@@ -16,7 +16,6 @@ namespace TestP4
         public static int Method(int a, int k, int p)
         {
             int count = 0;
-            int diff = k-a;
             if (a-k>=0)
             {
                 return -1;
@@ -24,10 +23,10 @@ namespace TestP4
             else
             {
                 count++;
-                while (diff<=p)
+                while (k - a <= p)
                 {
                     count++;
-                    p = p - diff;
+                    p = p - k - a;
                 }
                 return count;
             }
