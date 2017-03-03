@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testing06", "Testing06\Test
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Swaping", "Swaping\Swaping.csproj", "{9C62B4B1-E8FA-4B5D-A6D7-C816A86A8E66}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ref-String", "Ref-String\Ref-String.csproj", "{C33C0FAE-39DF-459C-BF09-BB98773CB82F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{9C62B4B1-E8FA-4B5D-A6D7-C816A86A8E66}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C62B4B1-E8FA-4B5D-A6D7-C816A86A8E66}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C62B4B1-E8FA-4B5D-A6D7-C816A86A8E66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C33C0FAE-39DF-459C-BF09-BB98773CB82F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C33C0FAE-39DF-459C-BF09-BB98773CB82F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C33C0FAE-39DF-459C-BF09-BB98773CB82F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C33C0FAE-39DF-459C-BF09-BB98773CB82F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
