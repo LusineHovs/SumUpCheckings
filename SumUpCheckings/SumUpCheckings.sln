@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Using", "Using\Using.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unmanaged_resources", "Unmanaged_resources\Unmanaged_resources.csproj", "{8BA17122-58C8-444D-A291-8EED4B2E0D01}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum", "TwoSum\TwoSum.csproj", "{586DA148-D6A8-4D8D-8401-639C68B7239D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{8BA17122-58C8-444D-A291-8EED4B2E0D01}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8BA17122-58C8-444D-A291-8EED4B2E0D01}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8BA17122-58C8-444D-A291-8EED4B2E0D01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{586DA148-D6A8-4D8D-8401-639C68B7239D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{586DA148-D6A8-4D8D-8401-639C68B7239D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{586DA148-D6A8-4D8D-8401-639C68B7239D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{586DA148-D6A8-4D8D-8401-639C68B7239D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
