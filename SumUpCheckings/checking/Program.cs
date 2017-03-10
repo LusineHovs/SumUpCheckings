@@ -20,6 +20,11 @@ namespace ParseTryParse
             int i1;
             bool i2 = int.TryParse(s, out i1);
             Console.WriteLine(i1);
+
+
+            //int a = new int();
+            //Console.WriteLine(a);
         }
+        
     }
 }
